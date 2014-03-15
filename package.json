@@ -5,7 +5,7 @@
     "collections": "~0.2.2",
     "q": "~0.9.7",
     "digit": "~0.5.0",
-    "mjs-volume": "git+ssh://git@github.com:fabrobinet/mjs-volume.git",
+    "mjs-volume": "git+https://github.com/fabrobinet/mjs-volume.git",
     "montage": "~0.14.1"
   }
 }
